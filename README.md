@@ -1,3 +1,4 @@
 # EARA-Demo
 This is my first Git Repository
-Auther - Masud alam
+<br>
+Author - Masud alam
